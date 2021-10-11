@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @wmzpineapple
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+wmzpineapple/wmzpineapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+我是瑞龍鳳梨，正在研究arduino加上Blynk的文件。
+家住臺灣臺南市
+正在楠西區種植鳳梨，黃金果，榴槤，芭樂。
