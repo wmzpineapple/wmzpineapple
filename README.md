@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 我是瑞龍鳳梨，正在研究arduino加上Blynk的文件。
 家住臺灣臺南市
-正在楠西區種植鳳梨，黃金果，榴槤，芭樂。
+種植 鳳梨 ， 黃金果 ， 榴槤 ， 芭樂 。
